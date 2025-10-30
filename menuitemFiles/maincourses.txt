@@ -1,0 +1,19 @@
+Fried rice with chicken
+150.00 PHP
+15.0
+
+Beef burger with fries
+180.00 PHP
+10.0
+
+Spaghetti with meat sauce
+120.00 PHP
+12.0
+
+Tuna pie
+140.00 PHP
+20.0
+
+Pork chops with rice
+160.00 PHP
+18.0

@@ -1,0 +1,30 @@
+Name: Bottled water
+Price: 20.00 PHP
+isAlcoholic: false
+size: Small
+
+Name: Iced tea
+Price: 40.00 PHP
+isAlcoholic: false
+size: Medium
+
+Name: Soda
+Price: 30.00 PHP
+isAlcoholic: false
+size: Small
+
+Name: Fresh lemonade
+Price: 50.00 PHP
+isAlcoholic: false
+size: Medium
+
+Milkshake 
+90.00 PHP
+false
+Medium
+
+Bud Light
+70.00 PHP
+true
+Bottle
+ 
