@@ -114,9 +114,5 @@ class Beverages extends menuItem {
     public void setSize(String size) {
         this.size = size;
     }
-}
 
-class readFile() {
-    
 }
-
